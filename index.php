@@ -10,7 +10,7 @@ while($num < $limite) {
 
 // Se o número for idêntico a 24
 if($num === 24) {
-    echo "Parando o loop";
+    echo "Parando o loop👋";
 break;
 }
 $num += 2;
