@@ -1,7 +1,7 @@
 <?php
 //declarando variáveis
 $num = 4;
-$limite * 30;
+$limite = 30;
 // enquanto número for menor que 38
 while($num < $limite) {
 
